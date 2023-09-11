@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/roastask/static/css/main.55104583.css",
-    "main.js": "/roastask/static/js/main.bf9d6fd3.js",
+    "main.css": "/roastask/static/css/main.15b25914.css",
+    "main.js": "/roastask/static/js/main.8b285e8e.js",
     "static/media/Team.svg": "/roastask/static/media/Team.cb4ccc6423d0c3b06d0c101372213c40.svg",
     "static/media/logo-demo.svg": "/roastask/static/media/logo-demo.4e08433d5f61e9c8dfcc0489b45bcaeb.svg",
     "static/media/logo.svg": "/roastask/static/media/logo.2048e49225c6fc22a5c5d997c6f283a9.svg",
@@ -11,11 +11,11 @@
     "static/media/logo4.svg": "/roastask/static/media/logo4.3d92b69b458c2ce3107c54f9913088c7.svg",
     "static/media/logo5.svg": "/roastask/static/media/logo5.60780c2bf739d3b15b39160d8d75a366.svg",
     "index.html": "/roastask/index.html",
-    "main.55104583.css.map": "/roastask/static/css/main.55104583.css.map",
-    "main.bf9d6fd3.js.map": "/roastask/static/js/main.bf9d6fd3.js.map"
+    "main.15b25914.css.map": "/roastask/static/css/main.15b25914.css.map",
+    "main.8b285e8e.js.map": "/roastask/static/js/main.8b285e8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.55104583.css",
-    "static/js/main.bf9d6fd3.js"
+    "static/css/main.15b25914.css",
+    "static/js/main.8b285e8e.js"
   ]
 }
