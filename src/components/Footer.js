@@ -3,7 +3,7 @@ import logo from '../images/logo-demo.svg'
 export default function Footer() {
   return (
     <div className='w-full'>
-    <div className='w-5/6 flex gap-x-10 mx-auto max-sm:grid max-sm:grid-cols-1 max-sm:gap-y-5 max-sm:w-full max-sm:px-3 max-[1000px]:grid max-[1000px]:grid-cols-1 max-[1000px]:gap-y-5 max-[1000px]:w-full max-[1000px]:px-3 '>
+    <div className='w-5/6 flex gap-x-10 mx-auto max-sm:grid max-sm:grid-cols-1 max-sm:gap-y-5 max-sm:w-full max-sm:px-3 max-[1000px]:grid max-[1000px]:grid-cols-1 max-[1000px]:justify-items-start max-[1000px]:gap-y-5 max-[1000px]:w-5/6 max-[1000px]:px-3 '>
      <div className='mr-3 mb-3 '>
      <img src={logo} alt='logo'/>
       <div className='flex gap-x-1 mt-3'>
