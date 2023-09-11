@@ -13,7 +13,7 @@ export default function Results() {
         <p className='mb-3  text-gray-500 font-semibold w-fit mx-auto text-center'>RESULTS</p>
         <p className='mt-2 text-5xl font-bold text-indigo-950 w-fit mx-auto text-center '>What can you expect?</p>
       </div>
-      <div className='flex justify-center  mt-5  max-sm:grid max-sm:grid-cols-1 max-sm:justify-items-center max-sm:gap-y-3'>
+      <div className='flex justify-center  mt-5  max-sm:grid max-sm:grid-cols-1 max-sm:justify-items-center max-sm:gap-y-3 max-[1100px]:grid max-[1100px]:grid-cols-2'>
         <div className='w-5/6 flex justify-center'>
           <fieldset className='bg-gray-300 text-center py-3 px-2  rounded-xl h-64 w-5/6 '>
           <legend><img src={logo1} alt='logo1' /></legend>

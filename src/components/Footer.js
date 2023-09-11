@@ -3,7 +3,7 @@ import logo from '../images/logo-demo.svg'
 export default function Footer() {
   return (
     <div className='w-full'>
-    <div className='w-5/6 flex gap-x-10 mx-auto max-sm:grid max-sm:grid-cols-1 max-sm:gap-y-5 max-sm:w-full max-sm:px-3 '>
+    <div className='w-5/6 flex gap-x-10 mx-auto max-sm:grid max-sm:grid-cols-1 max-sm:gap-y-5 max-sm:w-full max-sm:px-3 max-[1000px]:grid max-[1000px]:grid-cols-1 max-[1000px]:gap-y-5 max-[1000px]:w-full max-[1000px]:px-3 '>
      <div className='mr-3 mb-3 '>
      <img src={logo} alt='logo'/>
       <div className='flex gap-x-1 mt-3'>
@@ -20,7 +20,7 @@ export default function Footer() {
         <li className='mb-2 text-indigo-950 font-semibold'>Customer Success & Training</li>
       </ul>
      </div>
-     <div className='flex justify-start lg:gap-x-10 max-sm:gap-x-2'>
+     <div className='flex justify-start lg:gap-x-10 max-sm:gap-x-2  max-[1000px]:flex max-[1000px]:justify-start max-[1000px]:gap-x-20 '>
      <div className='mx-3 text-sm '>
      <ul>
         <li className='mb-3 text-gray-500 font-semibold'>PRODUCT</li>
